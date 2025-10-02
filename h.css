@@ -6,6 +6,6 @@ h1{
 
 .tag{
     font-family: cursive;
-    text-transform: capitalize;
+    text-transform: lowercase;
     background-color: beige;
 }
