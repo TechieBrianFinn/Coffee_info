@@ -3,3 +3,9 @@ h1{
     text-align: center;
     color: #df27b7;
 }
+
+.tag{
+    font-family: cursive;
+    text-transform: capitalize;
+    background-color: beige;
+}
